@@ -1,0 +1,6 @@
+numpy
+matplotlib
+uproot
+awkward
+tqdm
+PIL
